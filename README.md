@@ -1,2 +1,2 @@
 # gitskills
-This is my second file.
+This is our second file.
